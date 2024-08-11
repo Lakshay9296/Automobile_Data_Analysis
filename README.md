@@ -36,9 +36,13 @@ The dataset used in this project contains the following columns:
 **Q2. What is the likelihood of a salaried person buying a Sedan?**
 
 **Q3. What evidence or data supports Sheldon Cooper's claim that a salaried male is an easier target for a SUV sale over a Sedan sale?**
+
 **Q4. How does the the amount spent on purchasing automobiles vary by gender?**
+
 **Q5. How much money was spent on purchasing automobiles by individuals who took a personal loan?**
+
 **Q6. How does having a working partner influence the purchase of higher-priced cars?**
+
 
 ## Analysis
 The project covers the following analyses:
